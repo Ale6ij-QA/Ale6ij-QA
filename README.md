@@ -65,13 +65,6 @@
 
 ---
 
-### 🧡 Моя активность
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ale6ij-QA&show_icons=true&theme=distinguished&bg_color=000000&title_color=FF9000&text_color=ffffff&icon_color=FF9000&border_color=FF9000" alt="GitHub Stats" height="150" />
-</p>
-
----
-
 ### 📫 Связаться со мной 
 #### Если в вашей компании есть подходящая вакансия, буду рада обсудить детали 😉
 <p align="left">
