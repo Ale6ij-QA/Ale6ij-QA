@@ -5,8 +5,13 @@
 <h1 align="center">Привет! Я Алесия — QA Engineer 🧡 </h1>
 
 <p align="center">
+  <!-- Первая кнопка: Мой сайт -->
   <a href="https://Ale6ij-QA.github.io">
-    <img src="https://img.shields.io/badge/Мой_сайт-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Мой_сайт-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /> 
+  </a>
+  <!-- Вторая кнопка: Lo-Fi Room -->
+  <a href="https://ale6ij-qa.github.io/My-Lo-fi-room/">
+    <img src="https://img.shields.io/badge/Lo--Fi_Room-965537?style=for-the-badge&logo=youtube&logoColor=white" alt="Lo-Fi Room" /> 
   </a>
 </p>
 
