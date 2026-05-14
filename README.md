@@ -5,8 +5,13 @@
 <h1 align="center">Привет! Я Алесия — QA Engineer 🧡 </h1>
 
 <p align="center">
+  <!-- Первая кнопка: Мой сайт -->
   <a href="https://Ale6ij-QA.github.io">
-    <img src="https://img.shields.io/badge/Мой_сайт-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Мой_сайт-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /> 
+  </a>
+  <!-- Вторая кнопка: Lo-Fi Room -->
+  <a href="https://ale6ij-qa.github.io/My-Lo-fi-room/">
+    <img src="https://img.shields.io/badge/Lo--Fi_Room-965537?style=for-the-badge&logo=youtube&logoColor=white" alt="Lo-Fi Room" /> 
   </a>
 </p>
 
@@ -37,32 +42,53 @@
 ---
 
 ### ![Exp](https://img.shields.io/badge/---Практика_и_опыт---orange?style=for-the-badge)
+* 🔸 **Стажировка: Школа дизайна НИУ ВШЭ**:
+    * Провела полный цикл функционального тестирования сложного веб-редактора книг и конструктора проектов.
+    * Лично выявила 9 дефектов, включая **2 блокера**: критический сбой приложения (ReferenceError) и ограничение функций редактирования глав.
+    * Выполнила **Peer Review** и верификацию 20+ баг-репортов команды на различных ОС и браузерах (macOS Tahoe, iOS, Safari/Chrome).
+    * Разработала и реализовала регрессионный чек-лист для модуля «Редактор книг».
+* 🔸 **QA Studio**: Полный цикл функционального и нефункционального тестирования ПО, немного автоматизации и мобильное тестирование.
+
 * 🔸 **Тестирование корпоративного мессенджера**: Работа с системой на базе **Matrix Synapse**, проверка стабильности протоколов связи.
 * 🔸 **Kotapocalypse**: Проектирование архитектуры и создание документации для собственного игрового проекта.
-* 🔸 **QA Studio**: Полный цикл функционального и нефункционального тестирования ПО, немного автоматизации и мобильное тестирование.
 * 🔸 **Stepik**: Углубляюсь в SQL и изучение баз данных.
 
 ---
-
 ### ![Certificates](https://img.shields.io/badge/---Сертификаты_и_документы---orange?style=for-the-badge)
 
 <table border="0">
   <tr>
-    <td width="40%" align="center" rowspan="2">
-      <a href="sert.png" target="_blank"><img src="sert.png" alt="QA Studio Certificate" /></a>
+    <td width="50%" align="center" valign="middle">
+      <a href="sert_2.png" target="_blank">
+        <img src="sert_2.png" width="100%" alt="HSE QA Internship Certificate" />
+      </a>
     </td>
-    <td width="60%" align="center">
-      <a href="diploma_2.png" target="_blank"><img src="diploma_2.png" alt="Stepik SQL Interactive" /></a>
+    <td width="50%" align="center" valign="middle">
+      <a href="diploma_1.png" target="_blank">
+        <img src="diploma_1.png" width="100%" alt="Stepik SQL Start" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="diploma_1.png" target="_blank"><img src="diploma_1.png" width="48%" alt="Stepik SQL Start" /></a> 
-      <a href="diploma_3.png" target="_blank"><img src="diploma_3.png" width="48%" alt="Stepik SQL Basics" /></a>
+    <td rowspan="2" align="center" valign="middle">
+      <a href="sert.png" target="_blank">
+        <img src="sert.png" width="90%" alt="QA Studio Certificate" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="diploma_2.png" target="_blank">
+        <img src="diploma_2.png" width="100%" alt="Stepik SQL Interactive" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="diploma_3.png" target="_blank">
+        <img src="diploma_3.png" width="100%" alt="Stepik SQL Basics" />
+      </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📫 Связаться со мной 
